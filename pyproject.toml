@@ -1,0 +1,15 @@
+[project]
+name = "stackchan_like_jev_game"
+version = "0.1.0"
+description = "Talk to the Robot - a Jev-powered face-change game built with Pyxel"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pyxel>=2.9.9",
+    "typesafe-sdk>=0.7.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.16.8",
+]
