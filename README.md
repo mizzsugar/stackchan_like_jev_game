@@ -2,6 +2,9 @@
 [Jev](https://www.typesafe.ai/)（TypeSafe AIの`system_one` API）で5パターンに分類して、
 ロボットの表情に反映します。
 
+[game_play.webm](https://github.com/user-attachments/assets/aec15698-98ec-458f-b71f-c014bf625430)
+
+
 
 ## Requirements
 
